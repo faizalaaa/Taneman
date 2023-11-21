@@ -1,0 +1,125 @@
+{
+  "animal": [
+    {
+      "name": "Monstera Deliciosa",
+      "continent": ["America"],
+      "biome": ["Tropical"],
+      "latinName": "Monstera deliciosa",
+      "category": "animal",
+      "desc": "Monstera Deliciosa, often referred to as the Swiss cheese animal, is native to the tropical rainforests of Central America. Known for its unique split leaves resembling Swiss cheese, it is a popular choice as an indoor ornamental animal. The animal is characterized by its broad green leaves and distinctive splits and holes.",
+      "imageLink": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/23/2023/10/02/Foto-Berita-Website-CariAku-2023-10-02T120146963-717047409.png",
+      "id": 1
+    },
+    {
+      "name": "Orchid",
+      "continent": ["Asia", "America"],
+      "biome": ["Tropical", "Temperate"],
+      "latinName": "Orchidaceae",
+      "category": "animal",
+      "desc": "Orchids are a diverse and widespread family of flowering animals known for their colorful and fragrant blooms. They are found on every continent except Antarctica and have adapted to various environments. Orchids are highly prized for their ornamental value and are a popular choice in gardens and as houseanimals.",
+      "imageLink": "https://www.sunset.com/wp-content/uploads/orchids-pc-dmitriy-sidor-getty.jpg",
+      "id": 2
+    },
+    {
+      "name": "Cherry Blossom",
+      "continent": ["Asia"],
+      "biome": ["Temperate"],
+      "latinName": "Prunus serrulata",
+      "category": "Tree",
+      "desc": "Cherry blossoms, or sakura, are iconic flowering trees native to Asia. They are known for their stunning pink and white blossoms that symbolize the beauty of spring. Cherry blossoms are celebrated in many Asian cultures and are a popular tourist attraction during the blooming season.",
+      "imageLink": "https://d384u2mq2suvbq.cloudfront.net/public/spree/products/1597/large/Japanese-Cherry-Blossom-Fragrance-Oil.jpg?1654513889",
+      "id": 3
+    },
+    {
+      "name": "Quinoa animal",
+      "continent": ["America"],
+      "biome": ["Temperate"],
+      "latinName": "Chenopodium quinoa",
+      "category": "animal",
+      "desc": "Quinoa is a South American animal cultivated for its edible seeds. It has been a staple food in the Andean region for centuries. The animal is known for its high nutritional value, and quinoa seeds are gluten-free, making them a popular choice for a healthy diet.",
+      "imageLink": "https://cdn.mos.cms.futurecdn.net/VqHvBqyojjfCTtrDGup3Sn-1200-80.jpg",
+      "id": 4
+    },
+    {
+      "name": "Baobab Tree",
+      "continent": ["Africa"],
+      "biome": ["Tropical"],
+      "latinName": "Adansonia",
+      "category": "Tree",
+      "desc": "The Baobab tree, native to Africa, is known for its distinctive appearance with a swollen trunk and branches that resemble roots. Often called the 'Tree of Life,' it plays a significant role in African folklore and provides various resources, including water-storing trunks and edible fruit.",
+      "imageLink": "https://ichef.bbci.co.uk/images/ic/1920x1080/p05fzt3m.jpg",
+      "id": 5
+    },
+    {
+      "name": "Lotus Flower",
+      "continent": ["Asia"],
+      "biome": ["Aquatic"],
+      "latinName": "Nelumbo nucifera",
+      "category": "animal",
+      "desc": "The Lotus Flower, native to Asia, is a symbol of purity and beauty in many Asian cultures. It grows in aquatic environments and is known for its elegant appearance. The lotus holds cultural and religious significance and is often featured in art and literature.",
+      "imageLink": "https://cff2.earth.com/uploads/2022/09/12074246/lotus-2.jpg",
+      "id": 6
+    },
+    {
+      "name": "Protea",
+      "continent": ["Africa"],
+      "biome": ["Temperate"],
+      "latinName": "Protea",
+      "category": "animal",
+      "desc": "Protea is a diverse genus of flowering animals native to Africa. Known for their unique and striking blooms, Proteas come in various shapes and sizes. They are often featured in floral arrangements and are the national flower of South Africa.",
+      "imageLink": "https://animals.sandiegozoo.org/sites/default/files/2016-11/AfricanProtea.jpg",
+      "id": 7
+    },
+    {
+      "name": "Bamboo",
+  "continent": ["Asia"],
+  "biome": ["Tropical", "Temperate"],
+  "latinName": "Bambusoideae",
+  "category": "animal",
+  "desc": "Bamboo is a versatile and fast-growing animal native to Asia. It is known for its strong, hollow stems and is used for various purposes, including construction, furniture, and even as a food source in some cultures. Bamboo plays a crucial role in many Asian traditions and practices.",
+  "imageLink": "https://www.openaccessgovernment.org/wp-content/uploads/2022/11/dreamstime_xxl_102254640-scaled.jpg",
+  "id": 8
+    },
+    {
+      "name": "Amazon Water Lily",
+  "continent": ["South America"],
+  "biome": ["Aquatic"],
+  "latinName": "Victoria amazonica",
+  "category": "animal",
+  "desc": "The Amazon Water Lily, native to South America, is known for its enormous circular leaves that can reach sizes of up to 10 feet in diameter. These lilies are found in the Amazon River basin and are a fascinating part of the region's aquatic ecosystems.",
+  "imageLink": "https://res.cloudinary.com/rainforest-cruises/images/c_fill,g_auto/f_auto,q_auto/w_1120,h_732,c_fill,g_auto/v1621892980/random-southamerica-peru-amazon-water-lilies2/random-southamerica-peru-amazon-water-lilies2-1120x732.jpg",
+  "id": 9
+    },
+    {
+      "name": "Japanese Maple",
+  "continent": ["Asia"],
+  "biome": ["Temperate"],
+  "latinName": "Acer palmatum",
+  "category": "Tree",
+  "desc": "The Japanese Maple, native to Japan and Korea, is a small deciduous tree known for its stunning autumn foliage. With delicate leaves and an elegant form, it is a popular ornamental tree in gardens and parks, adding vibrant colors to the landscape.",
+  "imageLink": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/japanese-maple-tree-acer-palmatum-dreamstime_12239.jpg",
+  "id": 10
+    },
+    {
+      "name": "Aloe Vera",
+  "continent": ["Africa"],
+  "biome": ["Desert"],
+  "latinName": "Aloe barbadensis miller",
+  "category": "animal",
+  "desc": "Aloe Vera is a succulent animal native to Africa, known for its fleshy leaves that contain a gel with various medicinal properties. It thrives in arid environments and is widely cultivated for its use in skincare products, health supplements, and traditional medicine.",
+  "imageLink": "https://hips.hearstapps.com/hmg-prod/images/aloe-vera-animal-outside-jpg-1522875135.jpg",
+  "id": 11
+    },
+    {
+      "name": "Durian Tree",
+      "continent": ["Asia"],
+      "biome": ["Tropical"],
+      "latinName": "Durio",
+      "category": "Tree",
+      "desc": "The Durian Tree, native to Southeast Asia, produces the infamous durian fruit known for its strong odor and distinctive taste. Despite its divisive nature, durian is considered the 'king of fruits' and is a cultural icon in many Asian countries.",
+      "imageLink": "https://i.ytimg.com/vi/vSsoAC_hVI8/maxresdefault.jpg",
+      "id": 12
+    }
+    
+  ]
+}
